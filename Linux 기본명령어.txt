@@ -100,3 +100,12 @@ apt 명령 : dpkg 명령의 패키지 의존성 문제를 완전하게 해결. a
 사용하지 않는 패키지 제거 : apt autoremove
 내려 받은 파일 제거 : apt clean 또는
 apt autoclean
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+마운트(특정한 DVD와 연결이 된 상태)
+
+마운트 해제 : umount
+CD/DVD 장치 이름 : dev/cdrom
+진짜 이름 : dev/sr0
+ex) umount /dev/cdrom
